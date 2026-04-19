@@ -199,6 +199,4 @@ Construção de assistentes, uso de prompts, contexto, memória e aplicações.
 - [Prompts para debug](docs/prompts/prompts-debug.md)
 - [Prompts para backend](docs/prompts/prompts-backend.md)
 
-## Observação
 
-O material já produzido para o desafio de NotebookLM foi mantido e reposicionado como parte do módulo `01-onboarding-ia-dev`, porque ele representa o início da trilha com foco em IA aplicada ao aprendizado e ao desenvolvimento.

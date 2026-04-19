@@ -1,21 +1,5 @@
 # Onboarding + IA para Acelerar o Desenvolvimento
 
-## Checklist do desafio DIO
-
-Este arquivo concentra a execução do desafio prático no repositório e atende aos critérios solicitados:
-
-- **Contexto e objetivos:** apresentados nas seções `Contexto do módulo` e `Objetivos de estudo`.
-- **Curadoria de fontes:** registrada na seção `Curadoria de fontes`, com 5 referências abertas.
-- **Engenharia de prompts e cicatrizes:** documentada na seção `Engenharia de Prompts e cicatrizes`, com prompts, problemas, refinamentos e aprendizados.
-- **Miniguia de estudo:** consolidado na seção `Entrega final consolidada`.
-- **Resumo estruturado:** incluído em `Resumo estruturado`.
-- **Glossário:** incluído em `Glossário rápido`.
-- **Prompts reutilizáveis:** incluídos em `Prompts reutilizáveis`.
-
-## Como este desafio foi organizado
-
-Para integrar o desafio à trajetória completa do bootcamp, ele foi registrado como parte do módulo `01-onboarding-ia-dev`. Assim, o repositório mantém uma estrutura única de portfólio, sem perder os elementos exigidos pela DIO para esta entrega específica.
-
 ## Contexto do módulo
 
 Este módulo registra o desafio prático de usar Inteligência Artificial como ferramenta de aprendizagem ativa. O foco foi construir um caderno temático no NotebookLM sobre Engenharia de Prompts aplicada ao aprendizado em backend, documentando fontes, testes de prompts, dificuldades encontradas e o aprendizado consolidado.
@@ -54,8 +38,8 @@ As fontes escolhidas foram abertas, introdutórias e complementares entre si:
 
 1. [Prompt Engineering Guide](https://www.promptingguide.ai/)
 2. [OpenAI Docs: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-3. [Alura: O que são LLMs e como funcionam?](https://www.alura.com.br/artigos/o-que-e-llm)
-4. [DevMedia: Como usar IA para aprender programação](https://www.devmedia.com.br/como-usar-ia-para-aprender-programacao/43809)
+3. [Tipos de modelos de LLMs: generalistas, especialistas, compactos e multimodais](https://www.alura.com.br/artigos/tipos-de-llms)
+4. [Como a Inteligência Artificial Pode Ajudar Programadores Iniciantes?](https://www.devmedia.com.br/como-a-inteligencia-artificial-pode-ajudar-programadores-iniciantes/44211)
 5. [OpenAI Help: Limitações e cuidados com IA generativa](https://help.openai.com/en/articles/6825453-chatgpt-general-faq)
 
 ## Engenharia de Prompts e cicatrizes
